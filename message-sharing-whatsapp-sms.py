@@ -18,7 +18,7 @@ print(f"{url}")
 webbrowser.open(url)
 # your Account Sid and Auth Token from twilio.com/console
 # DANGER! This is insecure. See http://twil.io/secure
-account_sid = 'ACbaf4d39ddf69801f4255590968c564b8'
+account_sid = '#'
 auth_token = '#'
 client = Client(account_sid, auth_token)
 
@@ -28,7 +28,7 @@ message = client.messages
                      from_='+14012576091',
                      to='+91#'
                  )
-account_sid = 'AC2160d675bd0f94c0ad894a2faae90f63' 
+account_sid = '#' 
 auth_token = '#' 
 client = Client(account_sid, auth_token) 
  
