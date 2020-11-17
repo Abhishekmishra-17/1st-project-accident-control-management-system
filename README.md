@@ -19,7 +19,10 @@ A): Distracted Driving<br>
 B): Drunk Driving<br>
 C): Speeding/ Reckless Driving<br>
 D): Tailgating<br>
-*Note: For detailed information checked out <a href="https://www.reliancegeneral.co.in/Insurance/Knowledge-Center/Blogs/Common-Causes-of-Road-Accidents-in-India.aspx">this</a> link*
+E): Driving on the opposite side on a one-way<br>
+F): Road accidents caused due to animals<br>
+
+*Note: For detailed information checked out <a href="https://www.reliancegeneral.co.in/Insurance/Knowledge-Center/Blogs/Common-Causes-of-Road-Accidents-in-India.aspx">this</a> and <a href="https://www.prsindia.org/policy/vital-stats/overview-road-accidents-india">this</a> link*
 
 <h5> Target Audience : </h5>
 
