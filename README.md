@@ -48,8 +48,7 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Abhishek Mishra | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com
-2 | Faiza Ghayas | Student | Computer Science and Engineerings| Institute of Technology & Management, GIDA, Gorakhpur | .....
-3 | Saumya Tripathi | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | ....
-
+2 | Faiza Ghayas | Student | Computer Science and Engineerings| Institute of Technology & Management, GIDA, Gorakhpur | faizaghayas30@gmail.com
+3 | Saumya Tripathi | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | saumya051999@gmail.com
 /** The link of website is <a href="#">here</a> **/
 
