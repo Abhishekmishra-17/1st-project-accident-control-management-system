@@ -40,7 +40,7 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 <b>Mentored by | <b>  Dr. Shachi Mall 
 :--|:--|
 <b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
-<b> Email id|     <b> .....
+<b> Email id|     <b> shachimallitm@gmail.com
 <b> Department | Department of Computer Science 
 
 #### Developer Team
@@ -50,5 +50,7 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 1 | Abhishek Mishra | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com
 2 | Faiza Ghayas | Student | Computer Science and Engineerings| Institute of Technology & Management, GIDA, Gorakhpur | faizaghayas30@gmail.com
 3 | Saumya Tripathi | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | saumya051999@gmail.com
+
+
 /** The link of website is <a href="#">here</a> **/
 
