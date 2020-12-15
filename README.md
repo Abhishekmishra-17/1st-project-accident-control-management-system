@@ -1,5 +1,5 @@
 
-### In process...
+### Project work in progress
 ## Introduction 
 <br>
 
@@ -10,8 +10,9 @@
 
 <h5> About the Objective of Project  : </h5>
 
-.....
-<h5> About the Project : </h5>
+The main objective of this Accident Control Management System is to provide an efficient system to resolve the most common real world problems which is road accidents.<br>
+This system includes all the possible way of accidents like drowsy driver, drunk and drive, wrong lane e.t.c.<br>
+This system is also includes its negative aspect and try to resolve them.
 
 # Accident Control Management System
 <b ><i>1. Cause of Road Accident</i></b><br>
