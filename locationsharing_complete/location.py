@@ -54,22 +54,22 @@ def main():
     url2=str(str1[akmstr[1]-2])+str(str1[akmstr[1]-1])+'.'+str("".join(str1[(akmstr[1]+1):(akmstr[1]+6)]))
     url=(f"https://www.google.com/maps/search/?api=1&query={url1},{url2}")
     #print(url)
-    account_sid = 'AC2160d675bd0f94c0ad894a2faae90f63' 
-    auth_token = '1086ba7d3413bd4e77ad123bf49c3ea6' 
+    account_sid = '#' 
+    auth_token = '#' 
     client = Client(account_sid, auth_token) 
     message = client.messages.create( 
-                                  from_='whatsapp:+14155238886',  
+                                  from_='whatsapp:+14#',  
                                   body=f"{url}",      
-                                  to='whatsapp:+919161133377' 
+                                  to='whatsapp:+91#' 
                               )
-    account_sid = 'AC2d9ee41fc02554bc13c81c3abed10d34'
-    auth_token = '1040163c670dc8dad7d5e9cea3536fb5'
+    account_sid = '#'
+    auth_token = '#'
     client = Client(account_sid, auth_token)
     message = client.messages \
           .create(
                      body=f"{url}",
-                     from_='+19252593726',
-                     to='+919161133377'
+                     from_='+1#',
+                     to='+91#'
                  )
      
     #print(message.sid)
