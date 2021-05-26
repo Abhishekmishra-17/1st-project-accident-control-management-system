@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Accident Control Management System</title>
+</head>
+<body style="background-color:lightblue;display=flex;justufy-content:space-evenly;padding:0px;margin:0px">
+<div style="display:flex;justify-content: space-around;">
+    <span style="display: inline-block;">
+        <center><h4 style="color:red">Drowsy Detection</h4></center>
+        <img id="img" src="{{ url_for('drowsy_feed') }}" width="400px" height="300px">
+    </span>
+    <span style="display: inline-block;">
+       <center> <h4 style="color:red">Traffic Sign Detection</h4></center>
+        <img id="img" src="{{ url_for('video_feed') }}" width="400px" height="300px">
+    </span>
+    </div>
+    <div style="display:flex;justify-content: space-around;">
+    <span style="display: inline-block;">
+       <center><h4 style="color:red">Lane Detection</h4></center>
+        <img id="img" src="{{ url_for('video_feed') }}" width="400px" height="300px">
+    </span>
+    <span style="display: inline-block;">
+        <center><h4 style="color:red">Path Hole Detection</h4></center>
+        <img id="img" src="{{ url_for('video_feed') }}" width="400px" height="300px">
+    </span>
+    </div>
+</body>
+</html>
