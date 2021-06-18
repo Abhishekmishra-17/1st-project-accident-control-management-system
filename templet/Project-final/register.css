@@ -1,0 +1,66 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .container {
+    max-width: 960px;
+  }
+
+/**   custom **/
+  body{
+      background-color: #F05454;
+      color:white;
+
+  }
+.container-header{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    background-color: #125D98;
+    padding: 20px;
+    position: absolute;
+    top:0px;
+    width: 100%;
+  }
+
+  .car-head {
+    height: 64px;
+    box-shadow: 10px white;
+  
+  }
+  
+  .title-head {
+    color: #F8F9FC;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+.babycar{
+    padding-top: 50px;
+}
+  .card{
+      justify-content: center;
+  }
+
+
+.details{
+    width:50%;
+    justify-content: center;
+    margin: auto;
+    }
+
+
+.btn{
+    margin-top: 50px;
+    background-color:#125D98 ;
+   margin-left:150px;
+}
