@@ -1,0 +1,25 @@
+body{
+    background-color: #F05454;
+}
+
+.container-header{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    background-color: #125D98;
+    padding: 20px;
+    position: fixed;
+    top:0px;
+    width: 100%;
+  }
+  
+  .car-head {
+    height: 64px;
+    box-shadow: 10px white;
+  
+  }
+  
+  .title-head {
+    color: #F8F9FC;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
