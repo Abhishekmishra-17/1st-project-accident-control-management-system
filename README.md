@@ -42,7 +42,19 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 :--|:--|
 <b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
 <b> Email id|     <b> shachimallitm@gmail.com
-<b> Department | Department of Computer Science 
+<b> Department | Department of Computer Science (HOD) 
+
+<b>Mentored by | <b>  Ms. Preeti Yadav 
+:--|:--|
+<b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
+<b> Email id|     <b> shachimallitm@gmail.com
+<b> Department | Department of Computer Science
+
+<b>Mentored by | <b>  Ms. Meenakshi Srivastava
+:--|:--|
+<b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
+<b> Email id|     <b> srivastavameenakshi05@gmail.com
+<b> Department | Department of Computer Science
 
 #### Developer Team
 
