@@ -11,7 +11,7 @@
 <h5> About the Objective of Project  : </h5>
 
 The main objective of this Accident Control Management System is to provide an efficient system to resolve the most common real world problems which is road accidents.<br>
-This system includes all the possible way of accidents like drowsy driver, drunk and drive, wrong lane e.t.c.<br>
+This system will provides an efficient solution of all possible way of road accidents like drowsy driver, drunk and drive, wrong lane e.t.c.<br>
 This system is also includes its negative aspect and try to resolve them.
 
 # Accident Control Management System
@@ -26,7 +26,9 @@ F): Road accidents caused due to animals<br>
 *Note: For detailed information checked out <a href="https://www.reliancegeneral.co.in/Insurance/Knowledge-Center/Blogs/Common-Causes-of-Road-Accidents-in-India.aspx">this</a> and <a href="https://www.prsindia.org/policy/vital-stats/overview-road-accidents-india">this</a> link*
 
 <h5> Target Audience : </h5>
-
+1. Car Companies
+2. Public (User)
+3. Students (For technical education)
 
 <h5> Course Alignment : </h5>
 
