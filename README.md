@@ -26,9 +26,9 @@ F): Road accidents caused due to animals<br>
 *Note: For detailed information checked out <a href="https://www.reliancegeneral.co.in/Insurance/Knowledge-Center/Blogs/Common-Causes-of-Road-Accidents-in-India.aspx">this</a> and <a href="https://www.prsindia.org/policy/vital-stats/overview-road-accidents-india">this</a> link*
 
 <h5> Target Audience : </h5>
-1. Car Companies
-2. Public (User)
-3. Students (For technical education)
+1. Car Companies<br>
+2. Public (User)<br>
+3. Students (For technical education)<br>
 
 <h5> Course Alignment : </h5>
 
