@@ -1,6 +1,6 @@
-
 ### Project work in progress
 ## Introduction 
+
 <br>
 
 <b>Discipline | <b>Computer Science and Engineering
@@ -37,7 +37,7 @@ Bachelor of Technology
 <h5> Universities Mapped : </h5>
 
 Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
-
+  
 #### Mentor Details
 
 <b>Mentored by | <b>  Dr. Shachi Mall 
@@ -60,11 +60,11 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 
 #### Developer Team
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | Abhishek Mishra | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com
-2 | Faiza Ghayas | Student | Computer Science and Engineerings| Institute of Technology & Management, GIDA, Gorakhpur | faizaghayas30@gmail.com
-3 | Saumya Tripathi | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | saumya051999@gmail.com
+SrNo | Name | Faculty or Student | Department| Institute | Email id |Photo
+:--|:--|:--|:--|:--|:--| :--|
+1 | Abhishek Mishra | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com | <a href="https://github.com/Abhishekmishra-17"><img src="templet/image2.jpeg" alt="Abhishek Mishra" hight="150px" width="150px"/></a>
+2 | Faiza Ghayas | Student | Computer Science and Engineerings| Institute of Technology & Management, GIDA, Gorakhpur | faizaghayas30@gmail.com |<a href="https://github.com/f-1998"><img src="templet/image3.jpeg" alt="Faiza Ghayas" hight="150px" width="150px"/></a>
+3 | Saumya Tripathi | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | saumya051999@gmail.com |<a href="https://github.com/Saumyariya-17"><img src="templet/image1.jpeg" alt="Saumya Tripathi" hight="150px" width="150px"/></a>
 
 
 /** The link of website is <a href="#">here</a> **/
