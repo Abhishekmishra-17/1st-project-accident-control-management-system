@@ -45,19 +45,21 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 <b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
 <b> Email id|     <b> shachimallitm@gmail.com
 <b> Department | Department of Computer Science (HOD) 
+<b> Photo | <img src="templet/image6.jpg" alt="  Dr. Shachi Mall" hight="150px" width="200px"/>
 
 <b>Mentored by | <b>  Ms. Preeti Yadav 
 :--|:--|
 <b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
-<b> Email id|     <b> shachimallitm@gmail.com
+<b> Email id|     <b> preetiyadav.cse2018@gmail.com
 <b> Department | Department of Computer Science
+<b> Photo | <img src="templet/image4.jpg" alt="Ms. Preeti Yadav" hight="150px" width="200px"/>
 
 <b>Mentored by | <b>  Ms. Meenakshi Srivastava
 :--|:--|
 <b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
 <b> Email id|     <b> srivastavameenakshi05@gmail.com
 <b> Department | Department of Computer Science
-
+  <b> Photo | <img src="templet/image5.jpg" alt="Ms. Meenakshi Srivastava" hight="150px" width="200px"/>
 #### Developer Team
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id |Photo
