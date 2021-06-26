@@ -45,21 +45,24 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 <b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
 <b> Email id|     <b> shachimallitm@gmail.com
 <b> Department | Department of Computer Science (HOD) 
-<b> Photo | <img src="templet/image6.jpg" alt="  Dr. Shachi Mall" hight="150px" width="200px"/>
+<b> Area of Interest | 1. Artificial Intelligence<br>2. Natural Language Processing<br>3. Machine Learning
+<b> Photo | <img src="templet/image6.jpg" alt="  Dr. Shachi Mall" hight="100px" width="150px"/>
 
 <b>Mentored by | <b>  Ms. Preeti Yadav 
 :--|:--|
 <b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
 <b> Email id|     <b> preetiyadav.cse2018@gmail.com
 <b> Department | Department of Computer Science
-<b> Photo | <img src="templet/image4.jpg" alt="Ms. Preeti Yadav" hight="150px" width="200px"/>
+<b> Area of Interest | 1. Machine learning<br>2. Cloud Computing
+<b> Photo | <img src="templet/image4.jpg" alt="Ms. Preeti Yadav" hight="100px" width="150px"/>
 
 <b>Mentored by | <b>  Ms. Meenakshi Srivastava
 :--|:--|
 <b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
 <b> Email id|     <b> srivastavameenakshi05@gmail.com
 <b> Department | Department of Computer Science
-  <b> Photo | <img src="templet/image5.jpg" alt="Ms. Meenakshi Srivastava" hight="150px" width="200px"/>
+<b> Area of Interest | 1. Internet of Things<br>2. Cloud Computing 
+ <b> Photo | <img src="templet/image5.jpg" alt="Ms. Meenakshi Srivastava" hight="100px" width="150px"/>
 #### Developer Team
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id |Photo
