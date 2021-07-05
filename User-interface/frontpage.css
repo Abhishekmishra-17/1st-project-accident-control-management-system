@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    display:inline-grid;
+}
+
+/**  HEADER **/
+
+.container-header {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    background-color: #125D98;
+    padding: 20px;
+}
+
+
+.car-head {
+    height: 64px;
+
+}
+
+.title-head {
+    flex: 2;
+    color: #F8F9FC;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+}
+
+.btn-head1 {
+    margin-left: 20px;
+    background-color: #F05454;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 15px 32px;
+    border-radius: 45px;
+    font-size: 16px;
+    cursor: pointer;
+
+
+}
+
+
+.btn-head1:hover {
+    background-color: #ff8e8e;
+    color: #222831;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 4px rgb(94 104 121 / 29%);
+}
+
+/**Introduction**/
+
+.container-intro {
+    display: flex;
+    background-color: #F05454;
+    padding: 50px 50px;
+}
+
+
+.intro {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    width: 40%;
+    padding: 30px 0 30px 50px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+
+
+.intro h1 {
+    font-size: 40px;
+    font-weight: 900;
+    padding-bottom: 20px;
+
+}
+
+.intro p {
+    font-size: 20px;
+}
+
+
+.intro-img {
+    height: 320px;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+
+/** caraousal- team members **/
+
+.row {
+    padding: 30px;
+    text-align: center;
+    background-color: #E1E5EA;
+    width: 100%;
+    height: fit-content;
+    margin-left: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.row h1 {
+    padding: 50px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+
+.row h2 {
+    margin-bottom: 20px;
+}
+
+.row img {
+    border-radius: 100px;
+    height: 140px;
+    width: 140px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+}
+
+.row p{
+    padding-bottom: 30px;
+}
+
+
+/**buttom**/
+
+.logo-btm{
+display: flex;
+height:50px;
+position:absolute;
+left:30px;
+}
+
+.car-btm{
+    height:50px;
+    width: 50px;
+}
+
+.connect{
+    text-align: center;
+}
+
+.connect li{
+    padding:3px;
+}
+
+.buttom-container h1{
+    margin-left: 20px;
+}
+
+
+.buttom-container {
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #125D98;
+    width: 100%;
+    color: white;
+    padding-top:20px;
+    padding-left:20px;
+    
+}
+
+.social {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+   position:relative;
+   top: 30px;
+    
+}
+
+.buttom-container h4 {
+    margin-bottom: 30px;
+    margin: 50px;
+    color:coral;
+    font-weight: 900;
+}
+
+.buttom-container a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.buttom-container p {
+    color: white;
+    margin-top: 50px;
+    font-size: 16px;
+
+
+}
