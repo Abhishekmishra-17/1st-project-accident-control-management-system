@@ -8,7 +8,7 @@ import numpy as np
 import winsound
 freq=0
 dur=0
-url="http://192.168.43.121:8080/shot.jpg"
+url="http://192.168.43.1:8080/shot.jpg"
 def eye_aspect_ratio(eye):
         A = distance.euclidean(eye[1], eye[5])
         B = distance.euclidean(eye[2], eye[4])
@@ -17,15 +17,13 @@ def eye_aspect_ratio(eye):
         return ear
         
 thresh = 0.25
-frame_check = 20
+frame_check = 15
 detect = dlib.get_frontal_face_detector()
 predict = dlib.shape_predictor(".\shape_predictor_68_face_landmarks.dat")# Dat file is the crux of the code
 (lStart, lEnd) = face_utils.FACIAL_LANDMARKS_68_IDXS["left_eye"]
 (rStart, rEnd) = face_utils.FACIAL_LANDMARKS_68_IDXS["right_eye"]
-#cap=cv2.VideoCapture(0)
 flag=0
 while True:
-        #ret, frame=cap.read()
         imgResp=urlopen(url)
         imgNp=np.array(bytearray(imgResp.read()),dtype=np.uint8)
         frame=cv2.imdecode(imgNp,-1)
@@ -50,20 +48,17 @@ while True:
                         if flag >= frame_check:
                                 cv2.putText(frame, "****************ALERT!****************", (10, 30),
                                             cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
-                                cv2.putText(frame, "****************ALERT!****************", (10,325),
-                                            cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
                                 for i in range(0,6):
                                         freq+=50
                                         dur+=10
                                         winsound.Beep(freq,dur)
-                                #print ("Drowsy")
-                else:
+                elif ear > thresh:
                         flag = 0
                         freq=0
                         dur=0
-                cv2.imshow("Frame", frame)
-                key = cv2.waitKey(1) & 0xFF
-                if key == ord("q"):
-                        break
+                
+        cv2.imshow("Frame", frame)
+        key = cv2.waitKey(1) & 0xFF
+        if key == ord("q"):
+                break
 cv2.destroyAllWindows()
-cap.release()
