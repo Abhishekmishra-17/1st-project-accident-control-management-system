@@ -72,5 +72,5 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id |Photo
 3 | Saumya Tripathi | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | saumya051999@gmail.com |<a href="https://github.com/Saumyariya-17"><img src="templet/image1.jpeg" alt="Saumya Tripathi" hight="150px" width="150px"/></a>
 
 
-The link of <a href="https://vcddxm6utnzciqbmzqzvwq-on.drv.tw/www.AccidentMS.com/" >Accident Control Management System </a> :point_left: .For best experience use Chrome web browser or Firefox web browser. <br>Made with :sparkling_heart: .<br> Serve with 
+The link of <a href="https://vcddxm6utnzciqbmzqzvwq-on.drv.tw/www.AccidentMS.com/" >Accident Control Management System </a> :point_left: .For best experience use Chrome web browser or Firefox web browser in desktop mode. <br>Made with :sparkling_heart: .<br> Serve with 
 :smiley:
