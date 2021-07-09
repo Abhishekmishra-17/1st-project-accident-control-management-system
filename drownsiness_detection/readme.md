@@ -15,7 +15,9 @@ The example code is in Python ([version 2.7](https://www.python.org/download/rel
 
 ### Description
 
-A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.
+A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.<br>
+Driver drowsiness and attention warning and advanced driver distraction warning systems shall be designed in such a way that those systems do not continuously record nor retain any data other than what is necessary in relation to the purposes for which they were collected or otherwise processed within the closed-loop system. Furthermore, those data shall not be accessible or made available to third parties at any time and shall be immediately deleted after processing. Those systems shall also be designed to avoid overlap and shall not prompt the driver separately and concurrently or in a confusing manner where one action triggers both systems.(-regulation (EU) 2019/2144)
+This system is also known as EyeSight Driver Assist,Tiredness Detection Warning, Anti Sleep Pilot,Fatigue detection system....
 
 ### Algorithm
 
@@ -44,3 +46,7 @@ To run the code, type `python Drowsiness_Detection.py`
 ```
 python Drowsiness_Detection.py
 ```
+### Outputs
+<img src="../templet/drowsey1.jpeg" alt="drowsy1" hight="150px" width="150px"/><br>
+<img src="../templet/drowsey2.jpeg" alt="drowsy2" hight="150px" width="150px"/><br>
+<img src="../templet/drowsey3.jpeg" alt="drowsy3" hight="150px" width="150px"/>
