@@ -76,7 +76,9 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id |Photo
 There are lots of models, which proposed the solution for accident control. Some of them are good and some of them are outdated or are not implemented in the real world. The problem in existing system is that<br>1. There is no any solution of hardware failure.<br>2.There is no direct SMS or messaging service.<br>
 3. There is no any proposed solution if the model has some failure occure.<br>4. Using Sensors, which are frequently defective due to external environments is not a better option for the future.<br> 5. Each model is works individually that's why they may be not gave a proper and accurate solution.<br> 6. The cost of the existing model is not affordable for common pleople.<br>
    <br>
-   <h3> Proposed Solution</h3>
+   <h3> Proposed Solution:</h3>
    
+<h3>Conclusion:</h3>
+The main aim of this system is to construct a smart vehicle system with minimizing the limitations of existing models and also enhancing the security of vehicles and human beings by reducing accidental injuries. Smart vehicle system will entail a speed and other parameters of vehicle sensing mechanism which automatically messages to personal contacts with the details of vehicle position when an accident occurs using the GPS system. By using image processing technology we can produces an accident free enviroment. This model will be useful for less memory space and gives more accurate results. Most of models of this project is use the CNN for processing the images.<br><br>
 The link of <a href="https://vcddxm6utnzciqbmzqzvwq-on.drv.tw/www.AccidentMS.com/" >Accident Control Management System </a> :point_left: .For best experience use Chrome web browser or Firefox web browser in desktop mode. <br>Made with :sparkling_heart: .<br> Serve with 
 :smiley:
