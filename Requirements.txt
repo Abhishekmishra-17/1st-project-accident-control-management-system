@@ -1,1 +1,14 @@
+numpy+mkl
+opencv-contrib-python
+tensorflow
+selenium
+pandas
+cmake
+webbrowser
+urllib
+dlib
+keras
+pytesseract
+sklearn
+scipy
 
