@@ -49,7 +49,7 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 <b> Area of Interest | 1. Artificial Intelligence<br>2. Natural Language Processing<br>3. Machine Learning
 <b> Photo | <img src="templet/image6.jpg" alt="Dr. Shachi Mall" hight="100px" width="150px"/>
 
-<b>Mentored by | <b>  Ms. Preeti Yadav 
+<b>Mentored by | <b>  Ms. Pritee Yadav 
 :--|:--|
 <b> Institute | <b> Institute of Technology & Management, GIDA, Gorakhpur
 <b> Email id|     <b> preetiyadav.cse2018@gmail.com
