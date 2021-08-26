@@ -1,6 +1,6 @@
 numpy==1.19.5
 opencv-contrib-python==4.5.2.54
-tensorflow==2.5.1
+tensorflow>=2.5.1
 selenium==3.141.0
 pandas==1.1.5
 cmake==3.20.4
