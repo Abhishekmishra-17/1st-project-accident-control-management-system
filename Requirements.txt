@@ -15,4 +15,4 @@ matplotlib==3.3.4
 imutils==0.5.4
 requests==2.25.1
 twilio==6.60.6
-pillow==8.2.0
+pillow>=8.3.2
