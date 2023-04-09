@@ -68,9 +68,9 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 
 SrNo | Name | Designation | Department| Institute | Email id |Photo
 :--|:--|:--|:--|:--|:--| :--|
-1 | Abhishek Mishra | Assistant System Engineer, TCS   | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com | <a href="https://github.com/Abhishekmishra-17"><img src="templet/image2.jpeg" alt="Abhishek Mishra" hight="150px" width="150px"/></a>
-2 | Faiza Ghayas | Assistant System Engineer, TCS | Computer Science and Engineerings| Institute of Technology & Management, GIDA, Gorakhpur | faizaghayas30@gmail.com |<a href="https://github.com/f-1998"><img src="templet/image3.jpeg" alt="Faiza Ghayas" hight="150px" width="150px"/></a>
-3 | Saumya Tripathi | Assistant System Engineer, TCS | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | saumya051999@gmail.com |<a href="https://github.com/Saumyariya-17"><img src="templet/image1.jpeg" alt="Saumya Tripathi" hight="150px" width="150px"/></a>
+1 | Abhishek Mishra | Assistant System Engineer| Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com | <a href="https://github.com/Abhishekmishra-17"><img src="templet/image2.jpeg" alt="Abhishek Mishra" hight="150px" width="150px"/></a>
+2 | Faiza Ghayas | Assistant System Engineer| Computer Science and Engineerings| Institute of Technology & Management, GIDA, Gorakhpur | faizaghayas30@gmail.com |<a href="https://github.com/f-1998"><img src="templet/image3.jpeg" alt="Faiza Ghayas" hight="150px" width="150px"/></a>
+3 | Saumya Tripathi | Assistant System Engineer| Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | saumya051999@gmail.com |<a href="https://github.com/Saumyariya-17"><img src="templet/image1.jpeg" alt="Saumya Tripathi" hight="150px" width="150px"/></a>
 <br>
 <h3>Research Gap and Problems:</h3>
 There are lots of models, which proposed the solution for accident control. Some of them are good and some of them are outdated or are not implemented in the real world. The problem in existing system is that<br>1. There is no any solution of hardware failure.<br>2.There is no direct SMS or messaging service.<br>
