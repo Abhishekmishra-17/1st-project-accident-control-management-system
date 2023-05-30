@@ -13,6 +13,6 @@ scipy==1.5.4
 tqdm==4.61.1
 matplotlib==3.3.4
 imutils==0.5.4
-requests==2.25.1
+requests>=2.31.0
 twilio==6.60.6
 pillow>=8.3.2
