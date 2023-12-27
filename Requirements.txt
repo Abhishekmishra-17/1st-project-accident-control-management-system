@@ -4,12 +4,12 @@ tensorflow>=2.5.1
 selenium==3.141.0
 pandas==1.1.5
 cmake==3.20.4
-urllib3==1.26.6
+urllib3==1.26.18
 dlib==19.7.0
 keras==2.4.3
 pytesseract==0.3.8
 sklearn==0.0
-scipy==1.5.4
+scipy==1.10.0
 tqdm==4.61.1
 matplotlib==3.3.4
 imutils==0.5.4
